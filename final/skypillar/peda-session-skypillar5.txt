@@ -1,0 +1,4 @@
+break * 0x8048d88
+break *levelfive+192
+break * ayylmao +12
+
